@@ -57,8 +57,6 @@ build CMakeFiles/app.dir/UDAan_App/main.cpp.obj: CXX_COMPILER__app_unscanned_Deb
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\UDAan_App
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/UDAan_App/stm32h7xx_it.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_App/stm32h7xx_it.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -68,8 +66,6 @@ build CMakeFiles/app.dir/UDAan_App/stm32h7xx_it.c.obj: C_COMPILER__app_unscanned
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\UDAan_App
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/Legacy/stm32h7xx_hal_eth.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/Legacy/stm32h7xx_hal_eth.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -79,8 +75,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/Legacy/stm32h7xx_hal_e
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src\Legacy
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/Legacy/stm32h7xx_hal_eth_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/Legacy/stm32h7xx_hal_eth_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -90,8 +84,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/Legacy/stm32h7xx_hal_e
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src\Legacy
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -101,8 +93,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal.c.obj: C
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_adc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_adc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -112,8 +102,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_adc.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_adc_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_adc_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -123,8 +111,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_adc_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cec.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cec.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -134,8 +120,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cec.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_comp.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_comp.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -145,8 +129,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_comp.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cordic.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cordic.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -156,8 +138,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cordic.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cortex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cortex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -167,8 +147,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cortex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_crc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_crc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -178,8 +156,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_crc.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_crc_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_crc_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -189,8 +165,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_crc_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cryp.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cryp.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -200,8 +174,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cryp.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cryp_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cryp_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -211,8 +183,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_cryp_ex.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dac.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dac.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -222,8 +192,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dac.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dac_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dac_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -233,8 +201,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dac_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dcmi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dcmi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -244,8 +210,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dcmi.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dfsdm.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dfsdm.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -255,8 +219,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dfsdm.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dfsdm_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dfsdm_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -266,8 +228,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dfsdm_ex
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -277,8 +237,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma2d.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma2d.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -288,8 +246,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma2d.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -299,8 +255,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dma_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dsi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dsi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -310,8 +264,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dsi.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dts.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dts.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -321,8 +273,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_dts.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_eth.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_eth.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -332,8 +282,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_eth.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_eth_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_eth_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -343,8 +291,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_eth_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_exti.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_exti.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -354,8 +300,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_exti.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_fdcan.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_fdcan.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -365,8 +309,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_fdcan.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_flash.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_flash.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -376,8 +318,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_flash.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_flash_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_flash_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -387,8 +327,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_flash_ex
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_fmac.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_fmac.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -398,8 +336,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_fmac.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_gfxmmu.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_gfxmmu.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -409,8 +345,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_gfxmmu.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_gpio.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_gpio.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -420,8 +354,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_gpio.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hash.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hash.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -431,8 +363,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hash.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hash_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hash_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -442,8 +372,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hash_ex.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hcd.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hcd.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -453,8 +381,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hcd.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hrtim.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hrtim.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -464,8 +390,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hrtim.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hsem.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hsem.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -475,8 +399,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_hsem.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2c.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2c.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -486,8 +408,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2c.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2c_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2c_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -497,8 +417,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2c_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2s.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2s.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -508,8 +426,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2s.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2s_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2s_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -519,8 +435,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_i2s_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_irda.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_irda.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -530,8 +444,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_irda.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_iwdg.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_iwdg.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -541,8 +453,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_iwdg.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_jpeg.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_jpeg.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -552,8 +462,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_jpeg.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_lptim.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_lptim.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -563,8 +471,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_lptim.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ltdc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ltdc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -574,8 +480,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ltdc.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ltdc_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ltdc_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -585,8 +489,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ltdc_ex.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mdios.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mdios.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -596,8 +498,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mdios.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mdma.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mdma.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -607,8 +507,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mdma.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mmc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mmc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -618,8 +516,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mmc.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mmc_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mmc_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -629,8 +525,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_mmc_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_msp_template.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_msp_template.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -640,8 +534,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_msp_temp
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_nand.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_nand.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -651,8 +543,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_nand.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_nor.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_nor.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -662,8 +552,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_nor.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_opamp.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_opamp.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -673,8 +561,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_opamp.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_opamp_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_opamp_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -684,8 +570,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_opamp_ex
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ospi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ospi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -695,8 +579,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ospi.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_otfdec.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_otfdec.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -706,8 +588,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_otfdec.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pcd.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pcd.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -717,8 +597,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pcd.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pcd_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pcd_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -728,8 +606,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pcd_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pssi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pssi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -739,8 +615,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pssi.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pwr.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pwr.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -750,8 +624,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pwr.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pwr_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pwr_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -761,8 +633,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_pwr_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_qspi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_qspi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -772,8 +642,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_qspi.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ramecc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ramecc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -783,8 +651,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_ramecc.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rcc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rcc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -794,8 +660,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rcc.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rcc_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rcc_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -805,8 +669,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rcc_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rng.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rng.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -816,8 +678,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rng.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rng_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rng_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -827,8 +687,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rng_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rtc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rtc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -838,8 +696,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rtc.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rtc_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rtc_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -849,8 +705,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_rtc_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sai.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sai.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -860,8 +714,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sai.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sai_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sai_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -871,8 +723,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sai_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sd.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sd.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -882,8 +732,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sd.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sd_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sd_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -893,8 +741,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sd_ex.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sdio.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sdio.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -904,8 +750,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sdio.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sdram.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sdram.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -915,8 +759,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sdram.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smartcard.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smartcard.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -926,8 +768,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smartcar
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smartcard_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smartcard_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -937,8 +777,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smartcar
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smbus.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smbus.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -948,8 +786,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smbus.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smbus_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smbus_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -959,8 +795,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_smbus_ex
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spdifrx.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spdifrx.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -970,8 +804,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spdifrx.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -981,8 +813,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spi.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spi_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spi_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -992,8 +822,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_spi_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sram.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sram.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1003,8 +831,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_sram.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_swpmi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_swpmi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1014,8 +840,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_swpmi.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_tim.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_tim.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1025,8 +849,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_tim.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_tim_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_tim_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1036,8 +858,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_tim_ex.c
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_uart.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_uart.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1047,8 +867,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_uart.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_uart_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_uart_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1058,8 +876,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_uart_ex.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_usart.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_usart.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1069,8 +885,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_usart.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_usart_ex.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_usart_ex.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1080,8 +894,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_usart_ex
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_wwdg.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_wwdg.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1091,8 +903,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_hal_wwdg.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_adc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_adc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1102,8 +912,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_adc.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_bdma.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_bdma.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1113,8 +921,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_bdma.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_comp.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_comp.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1124,8 +930,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_comp.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_cordic.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_cordic.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1135,8 +939,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_cordic.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_crc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_crc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1146,8 +948,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_crc.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_crs.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_crs.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1157,8 +957,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_crs.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dac.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dac.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1168,8 +966,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dac.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_delayblock.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_delayblock.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1179,8 +975,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_delaybloc
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dma.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dma.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1190,8 +984,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dma.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dma2d.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dma2d.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1201,8 +993,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_dma2d.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_exti.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_exti.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1212,8 +1002,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_exti.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_fmac.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_fmac.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1223,8 +1011,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_fmac.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_fmc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_fmc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1234,8 +1020,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_fmc.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_gpio.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_gpio.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1245,8 +1029,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_gpio.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_hrtim.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_hrtim.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1256,8 +1038,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_hrtim.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_i2c.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_i2c.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1267,8 +1047,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_i2c.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_lptim.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_lptim.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1278,8 +1056,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_lptim.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_lpuart.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_lpuart.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1289,8 +1065,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_lpuart.c.
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_mdma.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_mdma.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1300,8 +1074,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_mdma.c.ob
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_opamp.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_opamp.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1311,8 +1083,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_opamp.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_pwr.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_pwr.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1322,8 +1092,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_pwr.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rcc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rcc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1333,8 +1101,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rcc.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rng.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rng.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1344,8 +1110,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rng.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rtc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rtc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1355,8 +1119,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_rtc.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_sdmmc.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_sdmmc.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1366,8 +1128,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_sdmmc.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_spi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_spi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1377,8 +1137,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_spi.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_swpmi.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_swpmi.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1388,8 +1146,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_swpmi.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_tim.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_tim.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1399,8 +1155,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_tim.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_usart.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_usart.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1410,8 +1164,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_usart.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_usb.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_usb.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1421,8 +1173,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_usb.c.obj
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_utils.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_utils.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1432,8 +1182,6 @@ build CMakeFiles/app.dir/C_/Users/dwije/STM32H747/hal/Src/stm32h7xx_ll_utils.c.o
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\C_\Users\dwije\STM32H747\hal\Src
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/UDAan_SDK/utilities/syscalls.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/utilities/syscalls.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1443,8 +1191,6 @@ build CMakeFiles/app.dir/UDAan_SDK/utilities/syscalls.c.obj: C_COMPILER__app_uns
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\UDAan_SDK\utilities
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/UDAan_SDK/utilities/sysmem.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/utilities/sysmem.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1454,8 +1200,6 @@ build CMakeFiles/app.dir/UDAan_SDK/utilities/sysmem.c.obj: C_COMPILER__app_unsca
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\UDAan_SDK\utilities
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/UDAan_SDK/utilities/system_stm32h747xx.c.obj: C_COMPILER__app_unscanned_Debug C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/utilities/system_stm32h747xx.c || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1465,8 +1209,6 @@ build CMakeFiles/app.dir/UDAan_SDK/utilities/system_stm32h747xx.c.obj: C_COMPILE
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\UDAan_SDK\utilities
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 build CMakeFiles/app.dir/UDAan_SDK/utilities/cm7_startup.s.obj: ASM_COMPILER__app_unscanned_Debug C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/utilities/cm7_startup.s || cmake_object_order_depends_target_app
   CONFIG = Debug
@@ -1476,8 +1218,6 @@ build CMakeFiles/app.dir/UDAan_SDK/utilities/cm7_startup.s.obj: ASM_COMPILER__ap
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = CMakeFiles\app.dir
   OBJECT_FILE_DIR = CMakeFiles\app.dir\UDAan_SDK\utilities
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
-  TARGET_PDB = cm7.pdb
 
 
 # =============================================================================
@@ -1495,9 +1235,8 @@ build cm7.elf: CXX_EXECUTABLE_LINKER__app_Debug CMakeFiles/app.dir/UDAan_App/mai
   OBJECT_DIR = CMakeFiles\app.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\app.dir\
   TARGET_FILE = cm7.elf
-  TARGET_PDB = cm7.pdb
+  TARGET_PDB = cm7.elf.dbg
   RSP_FILE = CMakeFiles\app.rsp
 
 
@@ -1560,8 +1299,6 @@ build UDAan_SDK/CMakeFiles/UDAan_SDK.dir/Source/UDAan_gpio.cpp.obj: CXX_COMPILER
   INCLUDES = -IC:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/Include -IC:/Users/dwije/STM32H747/hal/Inc -IC:/Users/dwije/STM32H747/hal/Inc/Legacy -IC:/Users/dwije/STM32H747/cmsis/Include -IC:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include
   OBJECT_DIR = UDAan_SDK\CMakeFiles\UDAan_SDK.dir
   OBJECT_FILE_DIR = UDAan_SDK\CMakeFiles\UDAan_SDK.dir\Source
-  TARGET_COMPILE_PDB = UDAan_SDK\CMakeFiles\UDAan_SDK.dir\UDAan_SDK.pdb
-  TARGET_PDB = UDAan_SDK\libUDAan_SDK.pdb
 
 
 # =============================================================================
@@ -1577,9 +1314,8 @@ build UDAan_SDK/libUDAan_SDK.a: CXX_STATIC_LIBRARY_LINKER__UDAan_SDK_Debug UDAan
   OBJECT_DIR = UDAan_SDK\CMakeFiles\UDAan_SDK.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = UDAan_SDK\CMakeFiles\UDAan_SDK.dir\UDAan_SDK.pdb
   TARGET_FILE = UDAan_SDK\libUDAan_SDK.a
-  TARGET_PDB = UDAan_SDK\libUDAan_SDK.pdb
+  TARGET_PDB = UDAan_SDK.a.dbg
 
 
 #############################################
@@ -1638,14 +1374,14 @@ build UDAan_SDK/all: phony UDAan_SDK/libUDAan_SDK.a
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CM7/Debug/cmake_install.cmake C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CM7/Debug/UDAan_SDK/cmake_install.cmake: RERUN_CMAKE | C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeASMCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerSupport.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeNinjaFindMake.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystem.cmake.in C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeTestASMCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Diab-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX-CXXImportStd.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Renesas-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectASMLinker.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectCLinker.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectCXXLinker.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Platform/Generic.cmake C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/CMakeLists.txt C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/CMakeLists.txt C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/toolchains/arm-none-eabi-gcc.cmake CMakeCache.txt CMakeFiles/4.1.1/CMakeASMCompiler.cmake CMakeFiles/4.1.1/CMakeCCompiler.cmake CMakeFiles/4.1.1/CMakeCXXCompiler.cmake CMakeFiles/4.1.1/CMakeSystem.cmake
+build build.ninja C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CM7/Debug/cmake_install.cmake C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CM7/Debug/UDAan_SDK/cmake_install.cmake: RERUN_CMAKE | C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Platform/Generic.cmake C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/CMakeLists.txt C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/CMakeLists.txt C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/toolchains/arm-none-eabi-gcc.cmake CMakeCache.txt CMakeFiles/4.1.1/CMakeASMCompiler.cmake CMakeFiles/4.1.1/CMakeCCompiler.cmake CMakeFiles/4.1.1/CMakeCXXCompiler.cmake CMakeFiles/4.1.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeASMCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerSupport.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeNinjaFindMake.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystem.cmake.in C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeTestASMCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Diab-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX-CXXImportStd.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Renesas-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectASMLinker.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectCLinker.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectCXXLinker.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Platform/Generic.cmake C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/CMakeLists.txt C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/CMakeLists.txt C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/toolchains/arm-none-eabi-gcc.cmake CMakeCache.txt CMakeFiles/4.1.1/CMakeASMCompiler.cmake CMakeFiles/4.1.1/CMakeCCompiler.cmake CMakeFiles/4.1.1/CMakeCXXCompiler.cmake CMakeFiles/4.1.1/CMakeSystem.cmake: phony
+build C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/CMake/share/cmake-4.1/Modules/Platform/Generic.cmake C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/CMakeLists.txt C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/CMakeLists.txt C$:/Users/dwije/OneDrive/Desktop/STM32H7_Project/UDAan_SDK/toolchains/arm-none-eabi-gcc.cmake CMakeCache.txt CMakeFiles/4.1.1/CMakeASMCompiler.cmake CMakeFiles/4.1.1/CMakeCCompiler.cmake CMakeFiles/4.1.1/CMakeCXXCompiler.cmake CMakeFiles/4.1.1/CMakeSystem.cmake: phony
 
 
 #############################################
