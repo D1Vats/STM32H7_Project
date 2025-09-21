@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "STM32H747",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/dwije/STM32H747/hal/Inc",
+                "C:/Users/dwije/STM32H747/cmsis/Device/ST/STM32H7xx/Include",
+                "C:/Users/dwije/STM32H747/cmsis/Include"    
+            ],
+            "defines": [
+                "STM32H747xx",
+                "USE_HAL_DRIVER"
+            ],
+            "compilerPath": "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "gcc-arm",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CM7/Debug/cmake_install.cmake",
+		"C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CM7/Debug/UDAan_SDK/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

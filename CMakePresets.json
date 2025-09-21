@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 21
+  },
+  "configurePresets": [
+    {
+      "name": "cm7-debug",
+      "displayName": "CM7 Debug",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/CM7/Debug",
+      "cacheVariables": {
+        "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/UDAan_SDK/toolchains/arm-none-eabi-gcc.cmake",
+        "CORE": "CM7",
+        "CMAKE_BUILD_TYPE": "Debug"
+      }
+    }
+  ]
+}

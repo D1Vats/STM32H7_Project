@@ -1,0 +1,7 @@
+C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CMakeFiles/app.dir
+C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CMakeFiles/all_postbuild.dir
+C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CMakeFiles/edit_cache.dir
+C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/UDAan_SDK/CMakeFiles/UDAan_SDK.dir
+C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/UDAan_SDK/CMakeFiles/edit_cache.dir
+C:/Users/dwije/OneDrive/Desktop/STM32H7_Project/build/UDAan_SDK/CMakeFiles/rebuild_cache.dir
